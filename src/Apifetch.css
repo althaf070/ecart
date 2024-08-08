@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    margin: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: justify;
+    justify-content: center;
+}
+.imgg{
+    height: 200px;
+}
+.img:hover{
+    scale: 1.05;;
+}
